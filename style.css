@@ -1,0 +1,61 @@
+
+  #backgroundImage {
+    background-image: url(./images/dev\ background.jpg);
+
+  }
+ .thumbnail {
+     width: 400;
+     height: 00;
+ }
+ 
+    
+.contact-box {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: cover;
+    background-color: #efefef;
+    font-family: sans-serif;
+}
+
+.contact-box {
+   
+    width: 500px;
+   background-color: #fff;
+   box-shadow: 0 0 20px 0 #999;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   position: absolute; 
+}
+
+form {
+   
+    margin: 35px;
+}
+
+.input-field {
+
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
